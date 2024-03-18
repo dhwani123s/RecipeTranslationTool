@@ -1,4 +1,4 @@
-# RecipeTranslationTool
+# Recipe Translation Tool
 This project involves building a Python tool to translate Italian recipes into English using web scraping techniques and OpenAI's language model.
 
 <img src = "https://github.com/dhwani123s/gifs/blob/main/machine-translation.jpeg" width = 1000 height = 400/>
